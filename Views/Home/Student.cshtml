@@ -1,0 +1,23 @@
+﻿@using Web_Intro.Models
+@model List<Student>
+<!DOCTYPE html>
+<html>
+<head>
+
+
+</head>
+<body>
+    <h1 style="background-color: coral">Student Lists</h1>
+    <ul>
+
+        @foreach (Student student in Model)
+        {
+            <li>@student.id @student.Name @student.Surname @student.Grade</li>
+        }
+    </ul>
+
+
+</body>
+</html>
+
+

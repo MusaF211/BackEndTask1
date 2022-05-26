@@ -1,0 +1,70 @@
+C:\Users\Hozan-Batan\source\repos\Web_Intro\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Hozan-Batan\source\repos\Web_Intro\bin\Debug\net5.0\appsettings.json
+C:\Users\Hozan-Batan\source\repos\Web_Intro\bin\Debug\net5.0\Web_Intro.exe
+C:\Users\Hozan-Batan\source\repos\Web_Intro\bin\Debug\net5.0\Web_Intro.deps.json
+C:\Users\Hozan-Batan\source\repos\Web_Intro\bin\Debug\net5.0\Web_Intro.runtimeconfig.json
+C:\Users\Hozan-Batan\source\repos\Web_Intro\bin\Debug\net5.0\Web_Intro.runtimeconfig.dev.json
+C:\Users\Hozan-Batan\source\repos\Web_Intro\bin\Debug\net5.0\Web_Intro.dll
+C:\Users\Hozan-Batan\source\repos\Web_Intro\bin\Debug\net5.0\ref\Web_Intro.dll
+C:\Users\Hozan-Batan\source\repos\Web_Intro\bin\Debug\net5.0\Web_Intro.pdb
+C:\Users\Hozan-Batan\source\repos\Web_Intro\obj\Debug\net5.0\Web_Intro.csproj.AssemblyReference.cache
+C:\Users\Hozan-Batan\source\repos\Web_Intro\obj\Debug\net5.0\Web_Intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hozan-Batan\source\repos\Web_Intro\obj\Debug\net5.0\Web_Intro.AssemblyInfoInputs.cache
+C:\Users\Hozan-Batan\source\repos\Web_Intro\obj\Debug\net5.0\Web_Intro.AssemblyInfo.cs
+C:\Users\Hozan-Batan\source\repos\Web_Intro\obj\Debug\net5.0\Web_Intro.csproj.CoreCompileInputs.cache
+C:\Users\Hozan-Batan\source\repos\Web_Intro\obj\Debug\net5.0\Web_Intro.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hozan-Batan\source\repos\Web_Intro\obj\Debug\net5.0\staticwebassets\Web_Intro.StaticWebAssets.Manifest.cache
+C:\Users\Hozan-Batan\source\repos\Web_Intro\obj\Debug\net5.0\staticwebassets\Web_Intro.StaticWebAssets.xml
+C:\Users\Hozan-Batan\source\repos\Web_Intro\obj\Debug\net5.0\scopedcss\bundle\Web_Intro.styles.css
+C:\Users\Hozan-Batan\source\repos\Web_Intro\obj\Debug\net5.0\Web_Intro.RazorTargetAssemblyInfo.cache
+C:\Users\Hozan-Batan\source\repos\Web_Intro\obj\Debug\net5.0\Web_Intro.dll
+C:\Users\Hozan-Batan\source\repos\Web_Intro\obj\Debug\net5.0\ref\Web_Intro.dll
+C:\Users\Hozan-Batan\source\repos\Web_Intro\obj\Debug\net5.0\Web_Intro.pdb
+C:\Users\Hozan-Batan\source\repos\Web_Intro\obj\Debug\net5.0\Web_Intro.genruntimeconfig.cache
+C:\Users\Hozan-Batan\source\repos\Web_Intro\bin\Debug\net5.0\Web_Intro.Views.dll
+C:\Users\Hozan-Batan\source\repos\Web_Intro\bin\Debug\net5.0\Web_Intro.Views.pdb
+C:\Users\Hozan-Batan\source\repos\Web_Intro\obj\Debug\net5.0\Web_Intro.RazorAssemblyInfo.cache
+C:\Users\Hozan-Batan\source\repos\Web_Intro\obj\Debug\net5.0\Web_Intro.RazorAssemblyInfo.cs
+C:\Users\Hozan-Batan\source\repos\Web_Intro\obj\Debug\net5.0\Web_Intro.TagHelpers.input.cache
+C:\Users\Hozan-Batan\source\repos\Web_Intro\obj\Debug\net5.0\Web_Intro.TagHelpers.output.cache
+C:\Users\Hozan-Batan\source\repos\Web_Intro\obj\Debug\net5.0\Web_Intro.RazorCoreGenerate.cache
+C:\Users\Hozan-Batan\source\repos\Web_Intro\obj\Debug\net5.0\Web_Intro.RazorTargetAssemblyInfo.cs
+C:\Users\Hozan-Batan\source\repos\Web_Intro\obj\Debug\net5.0\Web_Intro.Views.pdb
+C:\Users\Hozan-Batan\source\repos\Web_Intro\obj\Debug\net5.0\Web_Intro.csproj.CopyComplete
+C:\Users\Hozan-Batan\source\repos\Web_Intro\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Hozan-Batan\source\repos\Web_Intro\obj\Debug\net5.0\Razor\Views\Home\Student.cshtml.g.cs
+C:\Users\ACER A317\Desktop\BackEnd-Tasks-Task1\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ACER A317\Desktop\BackEnd-Tasks-Task1\bin\Debug\net5.0\appsettings.json
+C:\Users\ACER A317\Desktop\BackEnd-Tasks-Task1\bin\Debug\net5.0\Web_Intro.exe
+C:\Users\ACER A317\Desktop\BackEnd-Tasks-Task1\bin\Debug\net5.0\Web_Intro.deps.json
+C:\Users\ACER A317\Desktop\BackEnd-Tasks-Task1\bin\Debug\net5.0\Web_Intro.runtimeconfig.json
+C:\Users\ACER A317\Desktop\BackEnd-Tasks-Task1\bin\Debug\net5.0\Web_Intro.runtimeconfig.dev.json
+C:\Users\ACER A317\Desktop\BackEnd-Tasks-Task1\bin\Debug\net5.0\Web_Intro.dll
+C:\Users\ACER A317\Desktop\BackEnd-Tasks-Task1\bin\Debug\net5.0\ref\Web_Intro.dll
+C:\Users\ACER A317\Desktop\BackEnd-Tasks-Task1\bin\Debug\net5.0\Web_Intro.pdb
+C:\Users\ACER A317\Desktop\BackEnd-Tasks-Task1\bin\Debug\net5.0\Web_Intro.Views.dll
+C:\Users\ACER A317\Desktop\BackEnd-Tasks-Task1\bin\Debug\net5.0\Web_Intro.Views.pdb
+C:\Users\ACER A317\Desktop\BackEnd-Tasks-Task1\obj\Debug\net5.0\Web_Intro.csproj.AssemblyReference.cache
+C:\Users\ACER A317\Desktop\BackEnd-Tasks-Task1\obj\Debug\net5.0\Web_Intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER A317\Desktop\BackEnd-Tasks-Task1\obj\Debug\net5.0\Web_Intro.AssemblyInfoInputs.cache
+C:\Users\ACER A317\Desktop\BackEnd-Tasks-Task1\obj\Debug\net5.0\Web_Intro.AssemblyInfo.cs
+C:\Users\ACER A317\Desktop\BackEnd-Tasks-Task1\obj\Debug\net5.0\Web_Intro.csproj.CoreCompileInputs.cache
+C:\Users\ACER A317\Desktop\BackEnd-Tasks-Task1\obj\Debug\net5.0\Web_Intro.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ACER A317\Desktop\BackEnd-Tasks-Task1\obj\Debug\net5.0\Web_Intro.RazorAssemblyInfo.cache
+C:\Users\ACER A317\Desktop\BackEnd-Tasks-Task1\obj\Debug\net5.0\Web_Intro.RazorAssemblyInfo.cs
+C:\Users\ACER A317\Desktop\BackEnd-Tasks-Task1\obj\Debug\net5.0\staticwebassets\Web_Intro.StaticWebAssets.Manifest.cache
+C:\Users\ACER A317\Desktop\BackEnd-Tasks-Task1\obj\Debug\net5.0\staticwebassets\Web_Intro.StaticWebAssets.xml
+C:\Users\ACER A317\Desktop\BackEnd-Tasks-Task1\obj\Debug\net5.0\scopedcss\bundle\Web_Intro.styles.css
+C:\Users\ACER A317\Desktop\BackEnd-Tasks-Task1\obj\Debug\net5.0\Web_Intro.TagHelpers.input.cache
+C:\Users\ACER A317\Desktop\BackEnd-Tasks-Task1\obj\Debug\net5.0\Web_Intro.TagHelpers.output.cache
+C:\Users\ACER A317\Desktop\BackEnd-Tasks-Task1\obj\Debug\net5.0\Web_Intro.RazorCoreGenerate.cache
+C:\Users\ACER A317\Desktop\BackEnd-Tasks-Task1\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ACER A317\Desktop\BackEnd-Tasks-Task1\obj\Debug\net5.0\Razor\Views\Home\Student.cshtml.g.cs
+C:\Users\ACER A317\Desktop\BackEnd-Tasks-Task1\obj\Debug\net5.0\Web_Intro.RazorTargetAssemblyInfo.cache
+C:\Users\ACER A317\Desktop\BackEnd-Tasks-Task1\obj\Debug\net5.0\Web_Intro.RazorTargetAssemblyInfo.cs
+C:\Users\ACER A317\Desktop\BackEnd-Tasks-Task1\obj\Debug\net5.0\Web_Intro.Views.pdb
+C:\Users\ACER A317\Desktop\BackEnd-Tasks-Task1\obj\Debug\net5.0\Web_Intro.dll
+C:\Users\ACER A317\Desktop\BackEnd-Tasks-Task1\obj\Debug\net5.0\ref\Web_Intro.dll
+C:\Users\ACER A317\Desktop\BackEnd-Tasks-Task1\obj\Debug\net5.0\Web_Intro.pdb
+C:\Users\ACER A317\Desktop\BackEnd-Tasks-Task1\obj\Debug\net5.0\Web_Intro.genruntimeconfig.cache
+C:\Users\ACER A317\Desktop\BackEnd-Tasks-Task1\obj\Debug\net5.0\Web_Intro.csproj.CopyComplete

@@ -1,0 +1,24 @@
+﻿@using Web_Intro.Models
+@model List<Group>
+<!DOCTYPE html>
+<html>
+<head>
+    
+
+</head>
+<body>
+    <h1 style="background-color: green">Group List</h1>
+    <ul>
+        
+        @foreach (Group group in Model)
+        {
+            <li>
+                <a href="@("http://localhost:55788/home/Student/"+group.GroupId)">@group.GroupName</a>
+            </li>
+        }
+    </ul>
+   
+
+</body>
+</html>
+
